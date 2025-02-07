@@ -12,5 +12,5 @@ I have recently graduated in Computer Engineering from FCUL and I´m eager to st
 - Softwares and Tools: Microsoft Excel, Word, PowerPoint, Tableau, ZooKeeper
 
 ## 🌐 Socials:
-- LinkedIn: [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](www.linkedin.com/in/rodrigo-antunes-30bb53315)
-- Email: antunesrodrigo.2323@gmail.com
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](www.linkedin.com/in/rodrigo-antunes-30bb53315)
+Email: antunesrodrigo.2323@gmail.com
