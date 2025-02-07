@@ -2,8 +2,6 @@
 
 I have recently graduated in Computer Engineering from FCUL and I´m eager to start integrating into the field and gaining work experience.
 
----
-
 ## ✨ About me:
 - 🔍 Main interest: **Data Analysis**
 - 📚 Focused on improving my programming skills across various areas.
